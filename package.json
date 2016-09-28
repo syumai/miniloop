@@ -1,0 +1,16 @@
+{
+  "name": "miniloop",
+  "version": "0.1.0",
+  "description": "Simple module to control animation frames.",
+  "main": "lib/miniloop.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syumai/miniloop.git"
+  },
+  "author": "syumai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syumai/miniloop/issues"
+  },
+  "homepage": "https://github.com/syumai/miniloop#readme"
+}
